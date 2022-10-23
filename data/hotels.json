@@ -1,0 +1,178 @@
+[
+  {
+    "id": "1",
+    "place": "Cox's Bazar",
+    "place_slug": "cox's-bazar",
+    "name": "Hotel Sea Crown",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "price": 34,
+    "review": 4.8,
+    "review_person": 20,
+    "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/120397144.jpg?k=ca74ce65d75e5c0abe4a14b79923353a5920164cefb9160580b06868c236c4cc&o=&hp=1"
+  },
+  {
+    "id": "2",
+    "place": "Cox's Bazar",
+    "place_slug": "cox's-bazar",
+    "name": "Hotel Sea Shine",
+    "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum,  comes from a line in section 1.10.32.The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
+    "price": 52,
+    "review": 4.9,
+    "review_person": 50,
+    "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/126712471.jpg?k=98f4694ed9d7ef4549b9c767fbdac1654b38e17b57bd494561a9bd242bb46024&o=&hp=1"
+  },
+  {
+    "id": "3",
+    "place": "Cox's Bazar",
+    "place_slug": "cox's-bazar",
+    "name": "Hotel Sea Cox",
+    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+    "price": 44,
+    "review": 4.5,
+    "review_person": 30,
+    "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/220741503.jpg?k=fa0f687a125df8b08811fa504aec6a1108abb554c134ea726c0834f2e8bbf90e&o=&hp=1"
+  },
+  {
+    "id": "4",
+    "place": "Cox's Bazar",
+    "place_slug": "cox's-bazar",
+    "name": "Long Beach Hotel",
+    "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+    "price": 50,
+    "review": 4.5,
+    "review_person": 60,
+    "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/283183777.jpg?k=899b1542446c88268f790cf9968ddeffe42a7b24c7b228069de09413d5275822&o=&hp=1"
+  },
+  {
+    "id": "5",
+    "place": "Sreemangal",
+    "place_slug": "sreemangal",
+    "name": "Hotel Skypark Sreemangal",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "price": 54,
+    "review": 4.8,
+    "review_person": 20,
+    "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/324712930.jpg?k=90af38e85b538de0a9f2eaf4dc1f396f771692804250a0ba324a9ee263f8dc2e&o=&hp=1"
+  },
+  {
+    "id": "6",
+    "place": "Sreemangal",
+    "place_slug": "sreemangal",
+    "name": "Sreemangal Inn Hotel & Resturant",
+    "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum,  comes from a line in section 1.10.32.The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
+    "price": 52,
+    "review": 4.9,
+    "review_person": 50,
+    "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/270614788.jpg?k=18ecbcf49d2f018dd28f1b80807fa6edaca9456b53ec1003fae7782318a08e72&o=&hp=1"
+  },
+  {
+    "id": "7",
+    "place": "Sreemangal",
+    "place_slug": "sreemangal",
+    "name": "Hotel Sea Cox",
+    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+    "price": 44,
+    "review": 4.5,
+    "review_person": 30,
+    "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/220741503.jpg?k=fa0f687a125df8b08811fa504aec6a1108abb554c134ea726c0834f2e8bbf90e&o=&hp=1"
+  },
+  {
+    "id": "8",
+    "place": "Sreemangal",
+    "place_slug": "sreemangal",
+    "name": "Hotel Mohsin Plaza",
+    "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+    "price": 50,
+    "review": 4.5,
+    "review_person": 60,
+    "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/333117764.jpg?k=f5c1689f68bbcd13bc8bfe4be4dc2e415d2419a6f62e0e27601f97ec9a8ac657&o=&hp=1"
+  },
+  {
+    "id": "9",
+    "place": "Sreemangal",
+    "place_slug": "sreemangal",
+    "name": "Green Leaf Guest House",
+    "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+    "price": 50,
+    "review": 4.5,
+    "review_person": 60,
+    "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/297836338.jpg?k=3fd20f3b6c7f49a0412a8aa718d5fd9ee89d3f2eaf689918b3c41629ff95a285&o=&hp=1"
+  },
+  {
+    "id": "10",
+    "place": "Sundarban",
+    "place_slug": "sundarban",
+    "name": "Hotel Sonar Bangla",
+    "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+    "price": 50,
+    "review": 4.5,
+    "review_person": 60,
+    "img": "https://lh3.googleusercontent.com/p/AF1QipP_D8oj0uy3NrT29qGOoEnIUbuipyd7N4UT3mmH=w296-h202-n-k-rw-no-v1"
+  },
+  {
+    "id": "11",
+    "place": "Sundarban",
+    "place_slug": "sundarban",
+    "name": "Sundarban Tiger Raor Resort",
+    "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+    "price": 50,
+    "review": 4.5,
+    "review_person": 60,
+    "img": "https://lh3.googleusercontent.com/p/AF1QipMulUgEDufihpPM6nTvxH0v2_NARduoGf-8elTD=w296-h202-n-k-rw-no-v1"
+  },
+  {
+    "id": "12",
+    "place": "Sundarban",
+    "place_slug": "sundarban",
+    "name": "Sundarban Tiger Camp WildLife Resort",
+    "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+    "price": 50,
+    "review": 4.5,
+    "review_person": 60,
+    "img": "https://lh3.googleusercontent.com/p/AF1QipPUj2ddDIoEj1d6fLREs-7j5WE9J2sSDI9WuZr0=w296-h202-n-k-rw-no-v1"
+  },
+  {
+    "id": "13",
+    "place": "Sundarban",
+    "place_slug": "sundarban",
+    "name": "prakriti Village Resort Sundarban",
+    "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+    "price": 50,
+    "review": 4.5,
+    "review_person": 60,
+    "img": "https://lh3.googleusercontent.com/p/AF1QipNVvITs0cCVJb8DymHDstsxDj1hxMNIyz3x5cZV=w296-h202-n-k-rw-no-v1"
+  },
+  {
+    "id": "14",
+    "place": "Sajek Valley",
+    "place_slug": "sajek-valley",
+    "name": "Relax Sajek Resort",
+    "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+    "price": 50,
+    "review": 4.5,
+    "review_person": 60,
+    "img": "https://lh3.googleusercontent.com/p/AF1QipOPEjb7sP99fyEAN5l5Y2mbXZXYUAWYyMyCO_tg=w296-h202-n-k-rw-no-v1"
+  },
+  {
+    "id": "15",
+    "place": "Sajek Valley",
+    "place_slug": "sajek-valley",
+    "name": "Nil Paharai Eco Resort",
+    "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+    "price": 50,
+    "review": 4.5,
+    "review_person": 60,
+    "img": "https://lh3.googleusercontent.com/p/AF1QipOLZhxYPa5bFBTY5GvZzQZ6cdIVHG0mmFkTA7zw=w296-h202-n-k-rw-no-v1"
+  },
+  {
+    "id": "16",
+    "place": "Sajek Valley",
+    "place_slug": "sajek-valley",
+    "name": "Madventure Resort Sajek",
+    "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+    "price": 50,
+    "review": 4.5,
+    "review_person": 60,
+    "img": "https://lh3.googleusercontent.com/p/AF1QipOzSJmh5DBdFg2TqFaEVTQoTi6u7H1EpdyxbuEf=w296-h202-n-k-rw-no-v1"
+  }
+]
